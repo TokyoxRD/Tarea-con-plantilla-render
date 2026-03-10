@@ -1,0 +1,27 @@
+{
+  "name": "tarea-con-plantilla-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TokyoxRD/Tarea-con-plantilla-render.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TokyoxRD/Tarea-con-plantilla-render/issues"
+  },
+  "homepage": "https://github.com/TokyoxRD/Tarea-con-plantilla-render#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
